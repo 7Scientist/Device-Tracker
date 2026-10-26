@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+**/__pycache__/
+.gradle/
+android/.gradle/
+android/local.properties
+
+devices_db.txt
+device_tokens.txt
+locations_db.txt
